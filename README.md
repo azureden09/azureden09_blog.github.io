@@ -1,2 +1,2 @@
-# azureden09_blog.github.io
+# http://azureden09_blog.github.io
 blog
